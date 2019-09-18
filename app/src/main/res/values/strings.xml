@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">10 Pahlawan ID</string>
+    <string name="phlwn">Nama Pahlawan</string>
+    <string name="desc">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
